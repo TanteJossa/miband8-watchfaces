@@ -55,6 +55,8 @@ Then drag the picture from the "Picture Browser" to the "Properties-Picture" col
 to click "Toolbox-Basic Controls-General Digital Display", draw a suitable size, drag the picture from "Picture Viewer" to the "Properties-Digital Picture List" column (numbers 0~symbols must be dragged in) ), after which the controls can be displayed. Then copy this control and paste a total of 4 controls (why 4 will be explained later).
 PS: For 8Pro, please directly use the data source of hours and minutes, because the mechanism is different from 8Pro, and the gray words at the bottom are written for 8 users.
 
+*the first data option should be none and the second should be the same as the example*
+
 ! ! ! Note that each individual control (such as picture list, number list) can only use one set of pictures and cannot be reused. Four controls correspond to four sets of pictures to be copied. ! ! !
 
 Modify the corresponding picture of the pasted control, add the data source as "hour-tens", "hour-one", "minute-ten", "minute-one", and then modify the xy position. Can.
@@ -149,3 +151,15 @@ A: Add _RGBA to the control name.
 
 Q: The pictures are garbled, and the packaging always fails.
 A: Please check whether the pictures in this picture list are of the same size! ! ! Different sizes of pictures in the same picture collection may cause garbled characters, or lead to entering the after-sales mode! ! ! Q: Other questions A: Follow-up supplement. ```
+2. rename .face to .bin
+3. send the .bin file to your phone
+4. install the mi band 8 watchfaces (https://play.google.com/store/apps/details?id=asn.ark.miband8&hl=en&gl=US / i dont have ios so i don't know)
+5. menu -> install your watch face -> select file -> follow instructions (yes you should install that other watchface (it will show your own on the band))
+
+
+
+searcg result data:
+mi band 8 watchface
+custom watchface
+create watchface
+program
